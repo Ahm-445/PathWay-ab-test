@@ -31,7 +31,7 @@ Python 3 ومكتبات numpy وpandas وscipy وstatsmodels وmatplotlib، وك
 - القسم 9: التقرير والتوصية.
 
 ## هيكل المستودع
-- project_template.ipynb: دفتر المشروع
+- PathWay_Project.ipynb: دفتر المشروع
 - README.md: هذا الملف
 
 ## الفريق
